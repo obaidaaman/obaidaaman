@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my project involving Broadcast Recievers and Notifications.
 - 💬 Ask me about  Android , Firebase , Databases, Application Programming Interface.
 - 📫 How to reach me: linkedin.com/in/aman-obaid-3788101b1 , amanobaidofficial01@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: 
 -->
 
