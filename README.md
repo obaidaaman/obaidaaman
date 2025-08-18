@@ -11,7 +11,7 @@ My proficiency in Flutter has allowed me to develop cross-platform mobile applic
 - 🌱 I’m currently learning Flutter, Android Concepts and backend technologies.
 - 👯 I’m looking to collaborate on Android Projects involving Flutter(Dart), Kotlin, Java as a programming language.
 - 💬 Ask me about  Android, IOS , Firebase , Databases, Application Programming Interface.
-- 📫 How to reach me: linkedin.com/in/aman-obaid-3788101b1 , amanobaidofficial01@gmail.com
+- 📫 How to reach me: [linkedin.com/in/aman-obaid-3788101b1](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
 - 😄 Pronouns: He/Him.
 -  
 
