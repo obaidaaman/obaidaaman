@@ -7,34 +7,33 @@
 
 - 🔭 **Currently working on:**
 
-  -AI Agents & Orchestration: Building LangGraph-based multi-tool AI agents with memory and RAG.
-
-  -Backend Development: Designing FastAPI-based, production-ready APIs with context caching and vector-based retrieval.
-
-  -AI-powered Applications: Deploying intelligent, autonomous systems for search, e-commerce, and productivity use cases.
+ -AI Agents & Orchestration: Building LangGraph-based multi-tool AI agents with memory and RAG.
+ -Backend Development: Designing FastAPI-based, production-ready APIs with context caching and vector-based retrieval.
+ -AI-powered Applications: Deploying intelligent, autonomous systems for search, e-commerce, and productivity use cases.
 
  - **Currently Learning**
 
   -Advanced AI/ML concepts (LLMs, embeddings, vector search, memory-augmented systems).
-  
   -Blockchain & Smart Contract Security for AI-integrated DeFi solutions.
-  
   -Scalable SaaS architecture and observability for AI pipelines
 
   
 - 👯 **I’m looking to collaborate on:**
 
   -Generative AI applications leveraging LLMs, RAG, and autonomous agent frameworks.
-
   -AI + Web3 projects that push the frontier of decentralized, secure, and intelligent systems.
-
   -Full-stack AI-powered apps combining frontend (Flutter/React) and backend (Python/FastAPI).
 
 
 
-- 💬 Ask me about
+- 💬 **Ask me about**
 
-   -Android, IOS , Firebase , Databases, Application Programming Interface.
+   -AI Agents (LangGraph, LangChain)
+
+   -RAG & Vector Databases (Chroma, Pinecone)
+
+   -Backend APIs (FastAPI, REST)
+
   
    - 📫 **How to reach me:**
    - [linkedin.com/in/aman-obaid-3788101b1](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
