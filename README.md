@@ -1,18 +1,43 @@
 ### Hi there 👋
 
 
-**My name is Aman Obaid** I am a passionate application developer with a year of hands-on experience in crafting innovative and user-centric applications.
-My proficiency in Flutter has allowed me to develop cross-platform mobile applications with a focus on delivering high performance and visually appealing user interfaces.
+**My name is Aman Obaid** I am a passionate AI Engineer & Application Developer with hands-on experience in building AI-driven systems, intelligent agents, and scalable applications. My work spans from Flutter-based cross-platform apps to cutting-edge AI solutions integrating LangGraph-based agents, Retrieval-Augmented Generation (RAG), vector databases, and FastAPI backends
 
 
 
-- 🔭 I’m currently working on Application Development projects.
- 
-- 🌱 I’m currently learning Flutter, Android Concepts and backend technologies.
-- 👯 I’m looking to collaborate on Android Projects involving Flutter(Dart), Kotlin, Java as a programming language.
-- 💬 Ask me about  Android, IOS , Firebase , Databases, Application Programming Interface.
-- 📫 How to reach me: [linkedin.com/in/aman-obaid-3788101b1](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
-- 😄 Pronouns: He/Him.
--  
+- 🔭 **Currently working on:**
+
+  -AI Agents & Orchestration: Building LangGraph-based multi-tool AI agents with memory and RAG.
+
+  -Backend Development: Designing FastAPI-based, production-ready APIs with context caching and vector-based retrieval.
+
+  -AI-powered Applications: Deploying intelligent, autonomous systems for search, e-commerce, and productivity use cases.
+
+ - **Currently Learning**
+
+  -Advanced AI/ML concepts (LLMs, embeddings, vector search, memory-augmented systems).
+  
+  -Blockchain & Smart Contract Security for AI-integrated DeFi solutions.
+  
+  -Scalable SaaS architecture and observability for AI pipelines
+
+  
+- 👯 **I’m looking to collaborate on:**
+
+  -Generative AI applications leveraging LLMs, RAG, and autonomous agent frameworks.
+
+  -AI + Web3 projects that push the frontier of decentralized, secure, and intelligent systems.
+
+  -Full-stack AI-powered apps combining frontend (Flutter/React) and backend (Python/FastAPI).
+
+
+
+- 💬 Ask me about
+
+   -Android, IOS , Firebase , Databases, Application Programming Interface.
+  
+   - 📫 **How to reach me:**
+   - [linkedin.com/in/aman-obaid-3788101b1](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
+
 
 [![obaidaman's GitHub | Stats](https://stats.quine.sh/obaidaman/github?theme=light)](https://quine.sh)
