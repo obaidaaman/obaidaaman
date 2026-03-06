@@ -36,7 +36,7 @@
 
   
    - 📫 **How to reach me:**
-   - [linkedin.com/in/aman-obaid-3788101b1](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
-
+   - [linkedin.com/in/aman-obaid](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
+   - https://my-portfolio-seven-inky-84.vercel.app/
 
 [![obaidaman's GitHub | Stats](https://stats.quine.sh/obaidaman/github?theme=light)](https://quine.sh)
