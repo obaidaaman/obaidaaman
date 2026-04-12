@@ -1,42 +1,50 @@
 ### Hi there 👋
 
+**My name is Aman Obaid** — I build **production-grade AI systems and backend infrastructure**. My work focuses on designing reliable, scalable systems around LLMs, RAG pipelines, and asynchronous processing.
 
-**My name is Aman Obaid** I am a passionate AI Engineer & Application Developer with hands-on experience in building AI-driven systems, intelligent agents, and scalable applications. My work spans from Flutter-based cross-platform apps to cutting-edge AI solutions integrating LangGraph-based agents, Retrieval-Augmented Generation (RAG), vector databases, and FastAPI backends
+I don’t just integrate tools — I design systems that handle **latency, failure, and scale**.
 
+* 🔭 **Currently working on:**
 
+* **AI Agents & Orchestration:** Building LangGraph-based multi-tool agents with structured reasoning, memory, and controlled tool execution.
 
-- 🔭 **Currently working on:**
+* **Backend Systems:** Designing FastAPI-based services with async processing, caching layers, and fault-tolerant pipelines.
 
- -AI Agents & Orchestration: Building LangGraph-based multi-tool AI agents with memory and RAG.
- -Backend Development: Designing FastAPI-based, production-ready APIs with context caching and vector-based retrieval.
- -AI-powered Applications: Deploying intelligent, autonomous systems for search, e-commerce, and productivity use cases.
+* **AI-powered Applications:** Developing real-world systems for search, automation, and image intelligence (not demo-level prototypes).
 
- - **Currently Learning**
+* **Currently Learning**
 
-  -Advanced AI/ML concepts (LLMs, embeddings, vector search, memory-augmented systems).
-  -Blockchain & Smart Contract Security for AI-integrated DeFi solutions.
-  -Scalable SaaS architecture and observability for AI pipelines
+* Advanced RAG architectures (Agent-UniRAG, memory-augmented retrieval)
 
-  
-- 👯 **I’m looking to collaborate on:**
+* LLM system design (latency vs cost trade-offs, caching strategies)
 
-  -Generative AI applications leveraging LLMs, RAG, and autonomous agent frameworks.
-  -AI + Web3 projects that push the frontier of decentralized, secure, and intelligent systems.
-  -Full-stack AI-powered apps combining frontend (Flutter/React) and backend (Python/FastAPI).
+* Observability and reliability in AI pipelines
 
+* Blockchain security fundamentals for AI-integrated systems
 
+* 👯 **I’m looking to collaborate on:**
 
-- 💬 **Ask me about**
+  * Building **production-ready AI systems**
+  * Early-stage products where backend + AI architecture matters
+  * AI + Web3 systems requiring secure and intelligent design
+  * Full-stack AI applications with strong backend foundations
 
-   -AI Agents (LangGraph, LangChain)
+* 💬 **Ask me about**
 
-   -RAG & Vector Databases (Chroma, Pinecone)
+  * Designing **AI agents with LangGraph (state, memory, orchestration)**
 
-   -Backend APIs (FastAPI, REST)
+  * RAG systems beyond basics (retrieval strategies, memory layers)
 
-  
-   - 📫 **How to reach me:**
-   - [linkedin.com/in/aman-obaid](https://www.linkedin.com/in/obaidaman14/) , amanobaidofficial01@gmail.com
-   - https://my-portfolio-seven-inky-84.vercel.app/
+  * Backend architecture (FastAPI, async workers, system design trade-offs)
+
+  * 📫 **How to reach me:**
+
+  * [linkedin.com/in/aman-obaid](https://www.linkedin.com/in/obaidaman14/)
+
+  * [amanobaidofficial01@gmail.com](mailto:amanobaidofficial01@gmail.com)
+
+  * [Portfolio](https://my-portfolio-seven-inky-84.vercel.app/)
 
 [![obaidaman's GitHub | Stats](https://stats.quine.sh/obaidaman/github?theme=light)](https://quine.sh)
+
+
