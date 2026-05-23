@@ -22,7 +22,7 @@ I don’t just integrate tools — I design systems that handle **latency, failu
 
 * Blockchain security fundamentals for AI-integrated systems
 
-* 👯 **I’m looking to collaborate on:**
+*  **I’m looking to collaborate on:**
 
   * Building **production-ready AI systems**
   * Early-stage products where backend + AI architecture matters
@@ -37,7 +37,7 @@ I don’t just integrate tools — I design systems that handle **latency, failu
 
   * Backend architecture (FastAPI, async workers, system design trade-offs)
 
-  * 📫 **How to reach me:**
+  *  **How to reach me:**
 
   * [linkedin.com/in/aman-obaid](https://www.linkedin.com/in/obaidaman14/)
 
